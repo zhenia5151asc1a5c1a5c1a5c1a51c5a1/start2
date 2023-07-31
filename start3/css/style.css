@@ -1,0 +1,33 @@
+body {
+ background-color: pink;
+}
+h3 {
+   color: white;
+}
+.header {
+    background-color: lightgreen;
+}
+
+.class-name {
+    color: blue;
+}
+p.class-name {font-size: 30px;}
+.class-name.big-size-font {
+    font-size: 20px;
+}
+.big-blok {
+    background-color: brown;
+}
+.class-name.big-size-font {
+    background-color: azure;
+}
+.class-name.big-size-font.big-block {
+background-color: rgb(234, 238, 3);
+}
+#text-id {
+    color: orangered;
+    font-size: 35px;
+}
+.footer {
+    background-color: rgb(87, 252, 87);
+}
